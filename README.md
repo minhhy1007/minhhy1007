@@ -8,11 +8,6 @@
 
 ---
 
-## 🚀 Về Mình
-
-💻 Full Stack Developer với đam mê xây dựng ứng dụng web hiện đại  
-🌱 Đang học hỏi và phát triển kỹ năng mỗi ngày  
-⚡ Yêu thích code sạch và kiến trúc tốt  
 
 ---
 
